@@ -1,1 +1,2 @@
-# Checkpoint-2---GOVERNAN-A-
+# Checkpoint-2---GOVERNANÇA E MELHORES PRÁTICAS EM PROJETOS DE SISTEMAS
+Renan Bandeira Leite RM: 96168  3SIT
